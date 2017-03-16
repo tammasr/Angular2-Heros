@@ -12,6 +12,13 @@ It exists primarily to get you started quickly with learning and prototyping in 
 We are unlikely to accept suggestions about how to grow this QuickStart into something it is not.
 Please keep that in mind before posting issues and PRs.
 
+##shortcuts webstorm
+ctrl D = duplicate line
+
+
+##Concepts
+-Two way binding
+
 ## Updating to a newer version of the Quickstart Repo
 
 From time to time the QuickStart will add be enhanced with support for new features or to reflect
